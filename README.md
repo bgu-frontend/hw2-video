@@ -6,7 +6,6 @@
 6. Additionally, solve the questions in: (  link will be filled soon.).
 7. To submit, fill in repository details in the following Moodle [link].(https://moodle.bgu.ac.il/moodle/mod/questionnaire/view.php?id=2466075).
 
-
 ## Task
 this task's main goal about adding videos to our posts website, and is splitted to data transfer from hw1, video part and front end part.
 ![overview](https://res.cloudinary.com/dqdivzl0r/image/upload/v1684134346/kk6grnofeqgawigeas9f.png)
@@ -66,6 +65,10 @@ Like before, Hw2 will be submitted via Github: fill the group in the moodle link
 
 ### Getting started- 
 See the previous homework instructions.
+
+### Questions?
+[link to forum] https://moodle.bgu.ac.il/moodle/mod/forum/view.php?id=2467806.
+
 
 ## Good luck!
 
